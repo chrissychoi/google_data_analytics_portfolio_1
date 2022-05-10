@@ -1,4 +1,4 @@
-#**Rental Bike Studies**
+#Rental Bike Studies
 
 ##How to Covert Casual Users into Subscribers?
 
